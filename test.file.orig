@@ -1,0 +1,6 @@
+test
+<<<<<<< HEAD
+modified in local branch
+=======
+modified on GitHub
+>>>>>>> e63240e796eb0658b57671ee6717e5361cd37c9f
